@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Felix Guo 👋
 
-<!--
-**FelixG766/FelixG766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
 
-Here are some ideas to get you started:
+- 🌱 I'm a dedicated and motivated professional transitioning into **software development** with a strong foundation in applied mathematics and finance.
+- 🎓 Master of IT Software Development at University of Technology Sydney (WAM 94.5 / GPA 7.0) & Master of Professional Accounting at University of Sydney.
+- 🏆 Achievements include **UTS Tech Festival 2023 - Software Engineering Showcase: Best Project Award** and **First Place in UTS Tech Festival 2023 iOS Hackathon**.
+- 🤖 Passionate about using technology to solve complex problems innovatively and drive innovation in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Programming Languages**: Java, C, PHP, C#, Swift, Python
+- **Database & Backend Technologies**: MySQL, SQLite, Firebase, Salesforce (IaaS)
+- **Frontend Technologies**: HTML, CSS, JavaScript
+- **Software Engineering**: OOP, Design Pattern, adaptable EA, PMBOK, agile
+
+---
+
+*I'm actively seeking opportunities to contribute my skills and knowledge to innovative projects and teams. Let's connect!*
